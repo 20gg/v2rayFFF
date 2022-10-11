@@ -7,6 +7,7 @@
 
 ## 卸载
 ``source <(curl -sL https://git.io/trojan-install) --remove``
+## 命令 `trojan` 来管理，不要用443端口
 
 # Trojan全智能一键安装脚本
 ``wget -N --no-check-certificate -q -O trojan_install.sh "https://raw.githubusercontent.com/V2RaySSR/Trojan/master/trojan_install.sh" && chmod +x trojan_install.sh && bash trojan_install.sh``
