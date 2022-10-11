@@ -12,7 +12,7 @@
 # Trojan全智能一键安装脚本
 ``wget -N --no-check-certificate -q -O trojan_install.sh "https://raw.githubusercontent.com/V2RaySSR/Trojan/master/trojan_install.sh" && chmod +x trojan_install.sh && bash trojan_install.sh``
 
-# 网速慢解决
+# 网速慢解决 详情：https://v2rayssr.com/teach-vless.html
 =============================================================
 1. 有域名
 2. 注册 Cloudflare 免费内容分发系统
