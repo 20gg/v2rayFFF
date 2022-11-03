@@ -14,7 +14,7 @@
 =============================================================
 1. 有域名
 2. 注册 Cloudflare 免费内容分发系统
-3. X-ui面板安装 ``bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)``
+3. X-ui面板安装 `` bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh) ``
 4. 输入 x-ui 命令，进入 X-ui 的命令菜单
 5. 申请 SSL 证书
 6. 套用 CDN 拯救垃圾线路
